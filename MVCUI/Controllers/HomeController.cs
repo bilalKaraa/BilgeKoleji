@@ -26,5 +26,11 @@ namespace MVCUI.Controllers
 
             return View();
         }
+
+        public ActionResult ListPage()
+        {
+
+            return View();
+        }
     }
 }
