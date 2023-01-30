@@ -1,0 +1,6 @@
+C:\Users\bilal\source\repos\B\ENTITIES\bin\Debug\ENTITIES.dll
+C:\Users\bilal\source\repos\B\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\Users\bilal\source\repos\B\ENTITIES\obj\Debug\Bilge_Koleji.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\B\ENTITIES\obj\Debug\Bilge_Koleji.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\B\ENTITIES\obj\Debug\ENTITIES.dll
+C:\Users\bilal\source\repos\B\ENTITIES\obj\Debug\ENTITIES.pdb
